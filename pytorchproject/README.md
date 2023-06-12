@@ -1,0 +1,2 @@
+Project Summary
+In this project, I used Jupyter Notebook to do all of my coding and written explanations. I preprocessed the Mnist dataset for handwritten digit recognition, built a deep neural network, then trained and tune that deep neural network by adding convolutional neural neworks using my data to get more accuracy on my test/holdout data of about 98% accuracy and save both DNN AND CNN MODELS using the torch.save method.
